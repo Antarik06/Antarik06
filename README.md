@@ -106,7 +106,7 @@ From hackathons to open-source contributions, I believe in learning by doing —
 *An ocean & coastal hazard reporting platform built for real-time safety insights.*
 
 **Tech:** `React` `Firebase` `Leaflet JS`  
-[![View Repo](https://img.shields.io/badge/View_Repository-00BFFF?style=for-the-badge&logo=github)](https://github.com/Antarik06/JalDrishti)
+[![View Repo](https://img.shields.io/badge/View_Repository-00BFFF?style=for-the-badge&logo=github)](https://github.com/Antarik06/Jal-Drishti)
 
 ---
 
